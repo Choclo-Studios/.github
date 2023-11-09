@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/6M8R.gif)](https://rishavchanda.io)
+[![MasterHead](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/278/649/datas/original.GIF)](https://rishavchanda.io)
 <h1> Hi! we are Choclo Game Studios </h1>
 # 💫 About me:
 A Colombian Indy Game Company

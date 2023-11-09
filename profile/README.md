@@ -1,6 +1,8 @@
-[![MasterHead](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/89zrs9ir7e8d1fzwba3f.gif)](https://rishavchanda.io)
+[![MasterHead](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/89zrs9ir7e8d1fzwba3f.gif)](https://choclogames.com.co)
 <h1 align="center"> Hi! we are Choclo Game Studios </h1>
+
 # 💫 About:
+
 A Colombian Indy Game Company
 
 
